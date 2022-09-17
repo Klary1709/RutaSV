@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RutaSV</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibWFyaW8tb2xpdm8iLCJhIjoiY2txd3BkMjc1MDRhODJxcXU1dng1ank5dCJ9.Od8XhhRgdmyBLBpMy6tyJQ</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Mapa</string>
+    <string name="title_dashboard">Rutas</string>
+    <string name="title_notifications">Estaciones</string>
+    <string name="toast_exit">Presione otra vez para cerrar la aplicación</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

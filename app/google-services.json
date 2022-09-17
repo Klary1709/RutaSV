@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "502902632433",
+    "project_id": "rutasv-2a76a",
+    "storage_bucket": "rutasv-2a76a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502902632433:android:e6af66acebf58e70819e50",
+        "android_client_info": {
+          "package_name": "com.svrutas.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502902632433-ofn9tge4fkto01ro69siadmfcek2p975.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.svrutas.app",
+            "certificate_hash": "4dc476d0881dec4fcf0850458c12f8d13053cc29"
+          }
+        },
+        {
+          "client_id": "502902632433-4vfkf32meinskmi6cbf9mlfb1ujnh3ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkkEHqSp6ldH7j1V5LJx14ori3pwiGK34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502902632433-4vfkf32meinskmi6cbf9mlfb1ujnh3ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
